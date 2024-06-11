@@ -1,4 +1,3 @@
 jxxghp/moviepilot
 emby/embyserver:beta
 iyuucn/iyuuplus-dev
-gdy666/lucy
