@@ -2,3 +2,4 @@ jxxghp/moviepilot
 emby/embyserver:beta
 iyuucn/iyuuplus-dev
 emby/embyserver:4.9.0.23
+dreamacro/clash
