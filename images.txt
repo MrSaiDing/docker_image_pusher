@@ -2,4 +2,4 @@ jxxghp/moviepilot
 emby/embyserver:beta
 iyuucn/iyuuplus-dev
 dreamacro/clash:dev
-haishanh/yacd::master
+haishanh/yacd:master
