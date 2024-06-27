@@ -3,3 +3,4 @@ emby/embyserver:beta
 iyuucn/iyuuplus-dev
 dreamacro/clash:dev
 haishanh/yacd:master
+whyour/qinglong
