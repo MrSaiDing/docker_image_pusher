@@ -5,4 +5,4 @@ dreamacro/clash:dev
 haishanh/yacd:master
 whyour/qinglong
 agrrh/udpxy
-emby/embyserver:4.9.0.23
+emby/embyserver:latest
