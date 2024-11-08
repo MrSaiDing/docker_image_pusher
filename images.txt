@@ -6,3 +6,4 @@ haishanh/yacd:master
 whyour/qinglong
 agrrh/udpxy
 emby/embyserver:latest
+jxxghp/moviepilot-v2:latest
