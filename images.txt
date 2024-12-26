@@ -1,4 +1,3 @@
-jxxghp/moviepilot
 emby/embyserver:beta
 iyuucn/iyuuplus-dev
 dreamacro/clash:dev
@@ -7,3 +6,4 @@ whyour/qinglong
 agrrh/udpxy
 emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
+linuxserver/transmission:4.0.5
