@@ -8,3 +8,4 @@ emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
 linuxserver/transmission:4.0.5
 youshandefeiyang/allinone
+easychen/cookiecloud:latest
