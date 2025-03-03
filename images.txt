@@ -9,3 +9,5 @@ jxxghp/moviepilot-v2:latest
 linuxserver/transmission:4.0.5
 youshandefeiyang/allinone
 easychen/cookiecloud:latest
+linuxserver/transmission:version-3.00-r8
+ghostchu/peerbanhelper
