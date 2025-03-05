@@ -6,5 +6,4 @@ emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
 youshandefeiyang/allinone
 easychen/cookiecloud:latest
-ghostchu/peerbanhelper
-linuxserver/qbittorrent
+guovern/iptv-api
