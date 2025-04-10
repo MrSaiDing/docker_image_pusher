@@ -8,3 +8,4 @@ youshandefeiyang/allinone
 easychen/cookiecloud:latest
 lswl/vertex:latest
 linuxserver/jackett:latest
+ccf2012/seedcross:latest
