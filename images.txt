@@ -6,4 +6,5 @@ emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
 youshandefeiyang/allinone
 easychen/cookiecloud:latest
-guovern/iptv-api
+lswl/vertex:latest
+linuxserver/jackett:latest
