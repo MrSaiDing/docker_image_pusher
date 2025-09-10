@@ -3,7 +3,6 @@ iyuucn/iyuuplus-dev
 dreamacro/clash:dev
 emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
-youshandefeiyang/allinone
 easychen/cookiecloud:latest
 lswl/vertex:latest
 linuxserver/jackett:latest
