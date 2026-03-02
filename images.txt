@@ -6,4 +6,4 @@ jxxghp/moviepilot-v2:latest
 easychen/cookiecloud:latest
 lswl/vertex:latest
 linuxserver/jackett:latest
-xhofe/alist
+alist666/alist:beta
