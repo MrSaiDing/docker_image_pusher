@@ -4,6 +4,4 @@ dreamacro/clash:dev
 emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
 easychen/cookiecloud:latest
-lswl/vertex:latest
-linuxserver/jackett:latest
-alist666/alist:latest
+metacubex/mihomo:latest
