@@ -1,6 +1,5 @@
 emby/embyserver:beta
 iyuucn/iyuuplus-dev
-dreamacro/clash:dev
 emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
 easychen/cookiecloud:latest
