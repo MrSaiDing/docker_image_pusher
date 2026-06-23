@@ -4,3 +4,4 @@ emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
 easychen/cookiecloud:latest
 metacubex/mihomo:latest
+adguard/adguardhome:latest
