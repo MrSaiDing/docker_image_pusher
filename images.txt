@@ -5,3 +5,5 @@ jxxghp/moviepilot-v2:latest
 easychen/cookiecloud:latest
 metacubex/mihomo:latest
 adguard/adguardhome:latest
+tailscale/tailscale:latest
+gdy666/lucky:latest
