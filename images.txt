@@ -7,3 +7,4 @@ metacubex/mihomo:latest
 adguard/adguardhome:latest
 tailscale/tailscale:latest
 gdy666/lucky:latest
+jxxghp/moviepilot-v3:latest
