@@ -1,6 +1,9 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+iyuucn/iyuuplus-dev
+emby/embyserver:latest
+easychen/cookiecloud:latest
+metacubex/mihomo:latest
+adguard/adguardhome:latest
+tailscale/tailscale:latest
+gdy666/lucky:latest
+jxxghp/moviepilot-v3:latest
+cs920/happy-capy:latest
