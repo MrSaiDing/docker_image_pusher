@@ -175,5 +175,3 @@ jobs:
         else
           echo "最近 45 天内有提交，无需保活"
         fi
-    steps:
-    - uses: gautamkrishnar/keepalive-workflow@v2
