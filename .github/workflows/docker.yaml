@@ -30,24 +30,28 @@ jobs:
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
       with:
-
-        root-reserve-mb: 2048
+        root-reserve-mb: 8192
         swap-size-mb: 128
         remove-dotnet: 'true'
         remove-haskell: 'true'
-        # 如果空间还是不够用，可以把以下开启，清理出更多空间
-        # remove-android: 'true'
-        # remove-codeql: 'true'
+        remove-android: 'true'
+        remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
-    - name: Restart docker
-      run: sudo service docker restart
+    - name: Move containerd to the big disk
+      run: |
+        sudo systemctl stop docker docker.socket containerd
+        sudo mkdir -p /var/lib/docker/containerd-data
+        sudo rm -rf /var/lib/containerd
+        sudo ln -s /var/lib/docker/containerd-data /var/lib/containerd
+        sudo systemctl start containerd docker
 
     - name: Free up disk space complete
       run: |
         echo "Free up disk space complete"
         echo "=============================================================================="
         df -hT
+        docker info | grep -i "storage driver\|driver-type\|Docker Root Dir"
         echo "=============================================================================="
 
     - name: Checkout Code
