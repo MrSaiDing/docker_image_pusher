@@ -4,6 +4,6 @@ easychen/cookiecloud:latest
 metacubex/mihomo:latest
 adguard/adguardhome:latest
 tailscale/tailscale:latest
-gdy666/lucky:latest
+gdy666/lucky:v3_wanji
 jxxghp/moviepilot-v3:latest
 cs920/happy-capy:latest
