@@ -1,4 +1,4 @@
-iyuucn/iyuuplus-dev
+iyuucn/iyuuplus-dev:latest
 emby/embyserver:latest
 easychen/cookiecloud:latest
 metacubex/mihomo:latest
